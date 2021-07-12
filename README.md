@@ -1,4 +1,4 @@
-# Get started with Azure DevOps #
+# Host your own build agent in Azure Pipelines #
 
 Sunum dosyalarını **Slides** klasöründe bulabilirsiniz.
 
